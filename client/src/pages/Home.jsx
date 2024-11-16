@@ -29,12 +29,12 @@ const Home = () => {
       <div className="home-categories-container">
 
         <div className="home-category-card" onClick={() => navigate('/category/Breakfast')}>
-          <img src="https://www.lacademie.com/wp-content/uploads/2022/03/indian-breakfast-recipes-500x500.jpg" alt="" />
+          <img src="https://ranveerbrar.com/wp-content/uploads/2021/02/Masala-dosa-scaled-scaled.jpg" alt="" width="500" height="700"/>
           <h5>Breakfast</h5>
         </div>
 
         <div className="home-category-card" onClick={() => navigate('/category/Biriyani')}>
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-VXaTJIkc6rk02DU8r7r9zR-KaeWvH1oKA&usqp=CAU" alt="" />
+          <img src="https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg" alt="" />
           <h5>Biriyani</h5>
         </div>
 
@@ -44,12 +44,12 @@ const Home = () => {
         </div>
 
         <div className="home-category-card" onClick={() => navigate('/category/Noodles')}>
-          <img src="https://www.licious.in/blog/wp-content/uploads/2022/12/Shutterstock_2176816723.jpg" alt="" />
+          <img src="https://www.cookwithkushi.com/wp-content/uploads/2021/09/best_veg_noodles_recipe.jpg" alt="" />
           <h5>Noodles</h5>
         </div>
 
         <div className="home-category-card" onClick={() => navigate('/category/Burger')}>
-          <img src="/images/download.jpg" alt="Burger" />
+          <img src="https://foodhub.scene7.com/is/image/woolworthsltdprod/fi-2401-spicy-chicken-burgers?wid=1300&hei=1300&fmt=png-alpha" alt="Burger" />
           <h5>Burger</h5>
         </div>
 
